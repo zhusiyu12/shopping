@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a0bf0ac-f324-458b-ae1b-831e1e5169fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hWlXHkOIcWZ3fWcf3pU7usaXpX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shopping-parent/shopping-order/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15625" />
+    <property name="project.structure.side.proportion" value="0.2537092" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.edu.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaxianmu\shoppings\shopping-parent\shopping-order\src\main\resources" />
+      <recent name="E:\ideaxianmu\shoppings\shopping-parent\shopping-order\src\main\java\com\edu\order\dao\impl" />
+      <recent name="E:\ideaxianmu\shoppings\shopping-parent\shopping-portal\src\main\java\com\edu\portal\service\impl" />
+      <recent name="E:\ideaxianmu\shoppings\shopping-parent\shopping-portal\src\main\java\com\edu\portal\service" />
+      <recent name="E:\ideaxianmu\shoppings\shopping-parent\shopping-portal\src\main\java\com\edu\portal\controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.edu.portal.bean" />
+      <recent name="com.edu.order.dao" />
+      <recent name="com.edu.sso.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Bigthree\shoppings\shopping-parent\shopping-common\src\main\java\com\edu\common\util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.shopping-order ">
+    <configuration name="RedisTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-rests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RedisTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrTest.testDEl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-rests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolrTest" />
+      <option name="METHOD_NAME" value="testDEl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrTest.testSava" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-rests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolrTest" />
+      <option name="METHOD_NAME" value="testSava" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrTest.testquery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-rests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolrTest" />
+      <option name="METHOD_NAME" value="testquery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrTest.testupdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-rests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolrTest" />
+      <option name="METHOD_NAME" value="testupdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shopping-manager" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-manager" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-order " type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-order" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-portal" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-portal" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-rests" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-rests" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-search" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-search" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-sso " type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-sso" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RedisTest.test3" />
+      <item itemvalue="JUnit.SolrTest.testSava" />
+      <item itemvalue="JUnit.SolrTest.testupdate" />
+      <item itemvalue="JUnit.SolrTest.testquery" />
+      <item itemvalue="JUnit.SolrTest.testDEl" />
+      <item itemvalue="Maven.shopping-search" />
+      <item itemvalue="Maven.shopping-sso " />
+      <item itemvalue="Maven.shopping-portal" />
+      <item itemvalue="Maven.shopping-order " />
+      <item itemvalue="Maven.shopping-manager" />
+      <item itemvalue="Maven.shopping-rests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolrTest.testDEl" />
+        <item itemvalue="JUnit.SolrTest.testquery" />
+        <item itemvalue="JUnit.SolrTest.testSava" />
+        <item itemvalue="JUnit.SolrTest.testupdate" />
+        <item itemvalue="JUnit.RedisTest.test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a0bf0ac-f324-458b-ae1b-831e1e5169fd" name="Default Changelist" comment="" />
+      <created>1600134766506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600134766506</updated>
+      <workItem from="1600134769263" duration="3360000" />
+      <workItem from="1600160993512" duration="4742000" />
+      <workItem from="1600214802828" duration="4159000" />
+      <workItem from="1600307366116" duration="70000" />
+      <workItem from="1600686343139" duration="5491000" />
+      <workItem from="1600694774428" duration="1113000" />
+      <workItem from="1600744778523" duration="953000" />
+      <workItem from="1600757027700" duration="3479000" />
+      <workItem from="1600762141888" duration="3071000" />
+      <workItem from="1600765331021" duration="613000" />
+      <workItem from="1600774884107" duration="2941000" />
+      <workItem from="1600819945519" duration="9073000" />
+      <workItem from="1600831352692" duration="4408000" />
+      <workItem from="1600929399665" duration="948000" />
+      <workItem from="1600930674793" duration="13603000" />
+      <workItem from="1600950397332" duration="790000" />
+      <workItem from="1600956282459" duration="77000" />
+      <workItem from="1600956371832" duration="2660000" />
+      <workItem from="1600992755215" duration="71000" />
+      <workItem from="1600994432038" duration="14000" />
+      <workItem from="1600994458929" duration="2555000" />
+      <workItem from="1601217584171" duration="617000" />
+      <workItem from="1601252784601" duration="5518000" />
+      <workItem from="1601269005136" duration="1402000" />
+      <workItem from="1601339800587" duration="2315000" />
+      <workItem from="1602298300450" duration="3327000" />
+      <workItem from="1602305615189" duration="1205000" />
+      <workItem from="1602306844674" duration="253000" />
+      <workItem from="1602307115531" duration="504000" />
+      <workItem from="1602307636538" duration="947000" />
+      <workItem from="1602308599373" duration="596000" />
+      <workItem from="1602310366808" duration="4998000" />
+      <workItem from="1602317290681" duration="2497000" />
+      <workItem from="1602319814651" duration="2705000" />
+      <workItem from="1602322559265" duration="1027000" />
+      <workItem from="1602395666229" duration="4022000" />
+      <workItem from="1602399709595" duration="5323000" />
+      <workItem from="1602483865461" duration="2224000" />
+      <workItem from="1602493435052" duration="2594000" />
+      <workItem from="1602496058652" duration="6601000" />
+      <workItem from="1602511957780" duration="2272000" />
+      <workItem from="1602514251854" duration="291000" />
+      <workItem from="1602514557922" duration="511000" />
+      <workItem from="1602515088133" duration="1378000" />
+      <workItem from="1602552791367" duration="7052000" />
+      <workItem from="1602566652484" duration="2293000" />
+      <workItem from="1602577027240" duration="5307000" />
+      <workItem from="1602583074075" duration="496000" />
+      <workItem from="1602585859459" duration="284000" />
+      <workItem from="1602586159166" duration="2767000" />
+      <workItem from="1602763237827" duration="618000" />
+      <workItem from="1603160026716" duration="5933000" />
+      <workItem from="1603173882399" duration="3329000" />
+      <workItem from="1603178423900" duration="270000" />
+      <workItem from="1603178728590" duration="5911000" />
+      <workItem from="1603185269858" duration="1773000" />
+      <workItem from="1603193470226" duration="4588000" />
+      <workItem from="1603261359556" duration="1023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="78" key="#Inspections" timestamp="1600825787426">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="78" key="#Inspections/0.0.1549.831@0.0.1549.831" timestamp="1600825787426" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1602552900571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1602552900571" />
+    <state x="364" y="75" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1600826807682" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603187844956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603187844956" />
+    <state x="225" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1600930530269" />
+    <state x="894" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1603197020263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="894" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603197020263" />
+    <state x="902" y="108" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1600949955727" />
+    <state x="505" y="197" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1600217569605">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="505" y="197" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1549.831@0.0.1549.831" timestamp="1600217569605" />
+    <state x="385" y="328" width="865" height="167" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1603187078396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="328" width="865" height="167" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.824@0.0.1536.824" timestamp="1603187078396" />
+    <state x="388" y="331" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1549.831@0.0.1549.831" timestamp="1600826732846" />
+    <state x="557" y="328" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1603187081539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="557" y="328" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824@0.0.1536.824" timestamp="1603187081539" />
+    <state x="562" y="331" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1549.831@0.0.1549.831" timestamp="1600826737951" />
+    <state x="733" y="286" width="738" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600687882220">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="733" y="286" width="738" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1549.831@0.0.1549.831" timestamp="1600687882220" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602587433929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602587433929" />
+    <state width="415" height="466" key="DebuggerActiveHint" timestamp="1602400396530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="415" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1602400396530" />
+    <state x="526" y="113" key="FileChooserDialogImpl" timestamp="1602306588601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602306588601" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1603262272187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603262272187" />
+    <state width="1506" height="192" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1600950863118" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1603262272187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603262272187" />
+    <state width="1506" height="192" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1600950863117" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1603262272187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603262272187" />
+    <state width="1506" height="192" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1600950863117" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1603262272187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603262272187" />
+    <state width="1506" height="192" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1600950863117" />
+    <state width="1493" height="155" key="GridCell.Tab.1.bottom" timestamp="1603198063072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603198063072" />
+    <state width="1506" height="264" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1600835784015" />
+    <state width="1493" height="155" key="GridCell.Tab.1.center" timestamp="1603198063072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603198063072" />
+    <state width="1506" height="264" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1600835784015" />
+    <state width="1493" height="155" key="GridCell.Tab.1.left" timestamp="1603198063072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603198063072" />
+    <state width="1506" height="264" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1600835784014" />
+    <state width="1493" height="155" key="GridCell.Tab.1.right" timestamp="1603198063072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603198063072" />
+    <state width="1506" height="264" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1600835784015" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1603187083230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603187083230" />
+    <state x="386" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1600830615277" />
+    <state x="476" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1603261604651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603261604651" />
+    <state x="480" y="244" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1600955867491" />
+    <state x="178" y="29" key="new project wizard" timestamp="1603187029661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603187029661" />
+    <state x="260" y="145" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1600826703024" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1602484742818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602484742818" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603181228627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603181228627" />
+    <state x="393" y="108" key="spring file set editor" timestamp="1600824715567">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="393" y="108" key="spring file set editor/0.0.1549.831@0.0.1549.831" timestamp="1600824715567" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopping-parent/shopping-rests/src/test/java/RedisTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopping-parent/shopping-search/src/main/java/com/edu/search/dao/impl/SearchDaoImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopping-parent/shopping-portal/src/main/java/com/edu/portal/service/impl/ItemServiceImpl.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopping-parent/shopping-sso/src/main/java/com/edu/sso/controller/UserController.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopping-parent/shopping-portal/src/main/java/com/edu/portal/controller/CartController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/shopping-parent/shopping-rests/src/test/java/SolrTest.java</url>
+          <line>63</line>
+          <properties class="SolrTest" method="testSava">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/shopping-parent/shopping-portal/src/main/webapp/js/taotao.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="shoppingResult.msg.value" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
